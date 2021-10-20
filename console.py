@@ -3,7 +3,6 @@
 import cmd
 import sys
 import shlex
-
 import models
 from models.base_model import BaseModel
 from models.user import User
